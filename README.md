@@ -23,6 +23,6 @@ Arduino Mega 2560 R3 + RAMPS 1.4
 * https://goo.gl/EZKZaS Болт экструдера;
 * https://goo.gl/Zm23vD Ремень;
 
-Группа в VK: http://vk.com/hamradiogoods. Еще больше полезных товаров радиолюбителю
+Группа в VK: http://vk.com/WhatWouldSolder. Что бы Такого Спаять?
 
 По всем вопросам: info@phpscript.ru
